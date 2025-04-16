@@ -7,3 +7,8 @@ h1 {
 p {
   color: green;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
